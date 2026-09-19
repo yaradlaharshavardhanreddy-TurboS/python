@@ -5,6 +5,8 @@ a=[2,5.6,"python",6+9j,True]
 print(a)
 [2, 5.6, 'python', (6+9j), True]
 type(a)
+
+
 <class 'list'>
 #----------------------------
 
